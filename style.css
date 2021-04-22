@@ -68,9 +68,9 @@ body {
   letter-spacing: 1px;
 }
 body .chat {
-  width: 500px;
+  width: 1000px;
   height: 80vh;
-  max-height: 800px;
+  max-height: 1500px;
   border-radius: 15px;
   background-color:rgba(0, 0, 0, 0.5);
   overflow: hidden;
