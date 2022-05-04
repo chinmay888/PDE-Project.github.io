@@ -6,7 +6,7 @@
 
   fakeNum = 0;
 
-  isTyping = false;
+  isTyping = true;
 
   uctTimer = null;
 
