@@ -13,7 +13,7 @@
   window.userTypingClear = function() {
     return uctTimer = setTimeout(function() {
       $(".message.personal.typing").remove();
-      return isTyping = true;
+      return isTyping = false;
     }, 3500);
   };
 
