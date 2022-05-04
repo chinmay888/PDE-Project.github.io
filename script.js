@@ -32,7 +32,7 @@
     });
   };
 
-  fakeMsg = ["Hi, Welcome to our online meet app DogeStream, made by Samar, Moksh and Chinmay. You can start typing below. Enjoy."];
+  fakeMsg = ["Hi, Welcome to our online meet app chatbot Chinmay. You can start typing below. Enjoy."];
 
   window.setFakeMessage = function() {
     var typing;
