@@ -27,8 +27,8 @@
 
   window.updateScrollbar = function() {
     return messages.mCustomScrollbar("update").mCustomScrollbar('scrollTo', 'bottom', {
-      scrollInertia: 10,
-      timeout: 0
+      scrollInertia:10;
+     timeout 0;
     });
   };
 
